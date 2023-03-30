@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    color: white;
+
+}
+body{
+    background: rgb(221,45,19);
+    overflow-x: hidden;
+background: linear-gradient(90deg, rgba(221,45,19,1) 21%, rgba(253,149,29,1) 52%, rgba(252,176,69,1) 98%);
+}
+
+
+.mainNav{
+    background-color: rgba(0, 0, 0, 0.116);
+    height: 4rem;
+    width: 99vw;
+   
+}
+
+.navContainer{ display: flex;
+               justify-content: flex-end;
+              gap: 2rem;
+              padding: 1.5%;
+              color: aliceblue;
+              list-style: none;
+
+}
